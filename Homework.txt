@@ -1,3 +1,6 @@
 1. Write a function that determines whether a given number is prime or not. use this function to calculate all the prime numbers up to 10000.
 
-2. Determine the reverse complement of the following DNA sequence. GTTCCCCGAATACGTA
+2. Write a function that determines the reverse complement DNA sequences. The function should use a dictionary to map bases to their complements. Open the file called sequences.txt and reverse complement each one.
+
+BONUS
+3. Build a game of rock paper scissors that you play against the computer. Have the program randomly choose from rock paper and scissors, and have the user choose from the same. This process should repeat until someone wins.  
