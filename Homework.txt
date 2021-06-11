@@ -1,3 +1,6 @@
+Create a directory named with your first name in this repository. For each problem below create a python script.
+
+
 1. Write a function that determines whether a given number is prime or not. use this function to calculate all the prime numbers up to 10000.
 
 2. Write a function that determines the reverse complement DNA sequences. The function should use a dictionary to map bases to their complements. Open the file called sequences.txt and reverse complement each one.
